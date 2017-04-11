@@ -1,4 +1,4 @@
-#react-router-example
+# react-router-example
 
 This repo demonstrates simple usage of react router 3 for use with a single data-driven page.
 
